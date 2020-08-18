@@ -558,6 +558,9 @@ footer i {
         -webkit-box-shadow: 28px 28px 0px 4px #01ffde;
                 box-shadow: 28px 28px 0px 4px #01ffde;
     }
+    .services-content img {
+        width: 80%;
+    }
 }
 
 @media screen and (max-width: 1390px) {
@@ -627,9 +630,6 @@ footer i {
         -webkit-box-direction: normal;
             -ms-flex-direction: column;
                 flex-direction: column;
-    }
-    .services-content img {
-        width: 80%;
     }
     .about-text_item {
         margin: 2% 10%;
